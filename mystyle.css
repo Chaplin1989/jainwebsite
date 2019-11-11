@@ -1,0 +1,77 @@
+ .carousel-item img
+    {
+      height: 100%;
+      width: 100%;
+    }
+    .row{
+      margin-right: 0px !important;
+      margin-left: 0px !important;
+    }
+    .carousel-control-next-icon, .carousel-control-prev-icon
+    {
+      height: 40px;
+      width: 40px;
+    }
+    .carousel-caption
+    {
+      background-color: #544F4F;
+      color: white;
+      width: 100%;
+      left: 0;
+    }
+    
+    .im
+    {
+      padding-top: 10px;
+      padding-bottom: 25px;
+    }
+    .image1
+    {
+      height: 265px;
+    }
+    .image2
+    {
+      height: 315px;
+    }
+    .para1
+    {
+      height: 280px;
+    }
+    /*.image3
+  {
+    width: 70px;
+    height: 70px;
+  }
+  .carousel-indicators li {
+    border-radius: 12px;
+    width: 12px;
+    height: 12px;
+    background-color: red;
+}*/
+.cap{
+  margin-bottom: 50px;
+}
+.carousel-indicators li {
+  width: 15px;
+  height: 15px;
+  border-radius: 100%;
+  background-color: white;
+  margin-bottom: 10px;
+}
+
+.image4
+{
+  margin-top: 30px;
+  margin-left: 580px;
+  width: 200px;
+  height: 200px;
+}
+
+
+.indi li{
+  margin-bottom:100px;
+  border-radius: 100%;
+    width: 15px;
+    height: 15px;
+    background-color: red;
+}
